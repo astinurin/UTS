@@ -1,0 +1,26 @@
+name: your_project_name
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/img/city_background.jpg
+    - assets/img/home_promo.png
+    - assets/img/home_promo2.png
+    - assets/img/home_promo3.png
+    - assets/img/home_promo4.jpg
+    - assets/img/linkaja.png
+    - assets/icons/heart.png
+    - assets/icons/live-chat.png
+    - assets/img/user_avatar.jpg # Tambahkan asset gambar di sini
